@@ -419,6 +419,28 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# IDEs y editores
+node_modules/
+build/
+dist/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.vscode/
+.idea/
+
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+env/
+*.db
+*.sqlite3
+alembic/versions/
+*.log
 .vscode/
 .idea/
